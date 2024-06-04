@@ -4,7 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "10:12"
+      time: "16:01"
+      timezone: "Asia/India"
     open-pull-requests-limit: 10
     commit-message:
       prefix: "pip"
+    labels:
+      - "pip dependencies"
