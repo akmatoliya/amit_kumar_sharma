@@ -4,7 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "16:01"
+      time: "16:02"
       timezone: "Asia/India"
     open-pull-requests-limit: 10
     commit-message:
