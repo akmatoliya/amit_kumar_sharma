@@ -1,4 +1,4 @@
 requests==2.32.0
 numpy==1.22
-snowflake-connector-python==3.0.1
+snowflake-connector-python==3.11.0
 pyarrow==0.14.0
